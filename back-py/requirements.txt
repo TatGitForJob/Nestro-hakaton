@@ -1,0 +1,3 @@
+requests~=2.26.0
+docxtpl~=0.16.6
+cleanapi~=0.1.6

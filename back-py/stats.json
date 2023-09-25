@@ -1,0 +1,22 @@
+{
+    "stations": [
+        {
+            "loc": [
+                2,
+                3
+            ],
+            "number_visitors": 3219,
+            "number_stopped": 1596,
+            "sold_gasoline": 3212.3032496120904
+        },
+        {
+            "loc": [
+                9,
+                12
+            ],
+            "number_visitors": 3629,
+            "number_stopped": 1796,
+            "sold_gasoline": 3771.1992174248303
+        }
+    ]
+}
