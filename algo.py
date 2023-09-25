@@ -12,12 +12,13 @@ from math import sqrt, sin, cos
 import json
 import sys
 
-NUMBER_ACTIVE_CARS = 10#int(3271000 * 0.235 * 0.3)
+NUMBER_ACTIVE_CARS = int(3271000 * 0.235 * 0.3)
 
 STATIONS = None
 VERTEXES = None
 GRAPH = None
 CARS = None
+VERTEX_DICT = dict()
 
 class Vertex:
     def __init__(self, id, is_station, location):
@@ -131,31 +132,45 @@ def load_stations(path):
 
 
 def build_vertexes():
-    return [
-        Vertex(0, False, [2, 2]),
-        Vertex(1, True, [2, 3]),
-        Vertex(2, False, [0, 0]),
-        Vertex(3, False, [4, 1]),
-        Vertex(4, False, [8, 6]),
-        Vertex(5, False, [3, 7]),
-        Vertex(6, True, [9, 12])
-    ]
-
-
-def build_graph():
+    global GRAPH
     GRAPH = dict()
-    GRAPH[VERTEXES[0]] = [VERTEXES[2], VERTEXES[4], VERTEXES[6]]
-    GRAPH[VERTEXES[1]] = [VERTEXES[2], VERTEXES[3], VERTEXES[5]]
-    GRAPH[VERTEXES[2]] = [VERTEXES[0], VERTEXES[1]]
-    GRAPH[VERTEXES[3]] = [VERTEXES[1], VERTEXES[4], VERTEXES[5], VERTEXES[6]]
-    GRAPH[VERTEXES[4]] = [VERTEXES[0], VERTEXES[3]]
-    GRAPH[VERTEXES[5]] = [VERTEXES[1], VERTEXES[3], VERTEXES[6]]
-    GRAPH[VERTEXES[6]] = [VERTEXES[0], VERTEXES[3], VERTEXES[5]]
-    return GRAPH
+    vertexes = []
+    counter = 0
+    for i in STATIONS:
+        vertexes.append(Vertex(counter, True, i))
+        VERTEX_DICT[vertexes[-1]] = counter
+        counter += 1
+    with open('roads.txt', 'r') as f:
+        x = f.readlines()
+        for j in x:
+            w = j.split(' ')
+            for i in range(0, len(w), 2):
+                if i + 1 >= len(j) or j[i] == '.' or j[i + 1] == '.':
+                    break
+                if Vertex(counter, False, [float(j[i + 1]), float(j[i])]) not in VERTEX_DICT.keys():
+                    vertexes.append(Vertex(counter, False, [float(j[i + 1]) * 78.7, float(j[i]) * 111.13]))
+                    VERTEX_DICT[vertexes[-1]] = counter
+                    counter += 1
+                if i > 0:
+                    if vertexes[-1] not in GRAPH.keys():
+                        GRAPH[vertexes[-1]] = []
+                    GRAPH[vertexes[-1]].append(vertexes[-2])
+                    if vertexes[-2] not in GRAPH.keys():
+                        GRAPH[vertexes[-2]] = []
+                    GRAPH[vertexes[-2]].append(vertexes[-1])
+    for i in range(0, len(STATIONS)):
+        for j in range(len(STATIONS), len(vertexes)):
+            if vertexes[i] not in GRAPH.keys():
+                GRAPH[vertexes[i]] = []
+            if vertexes[j] not in GRAPH.keys():
+                GRAPH[vertexes[j]] = []
+            GRAPH[vertexes[i]].append(vertexes[j])
+            GRAPH[vertexes[j]].append(vertexes[i])
+    return vertexes
 
 
 def build_cars():
-    return [Car(10, 0.1, VERTEXES[randint(0, 6)], 0.9 + random() * 0.1) for i in range(5)]
+    return [Car(100 * max(0.6, random()), 0.2 * max(0.3, random()), VERTEXES[randint(0, len(VERTEXES) - 1)], 0.9 + random() * 0.1) for i in range(NUMBER_ACTIVE_CARS)]
 
 
 def export_data():
@@ -181,7 +196,6 @@ def main():
     global STATIONS, VERTEXES, GRAPH, CARS
     STATIONS = load_stations(sys.argv[1])
     VERTEXES = build_vertexes()
-    GRAPH = build_graph()
     CARS = build_cars()
 
     for i in range(1440):
@@ -189,8 +203,9 @@ def main():
             CARS[j].next_direction(GRAPH[CARS[j].get_vertex()])
 
     for i in VERTEXES:
-        print(i.location, i.number_visited, i.number_stopped, i.sold_gasoline)
-    
+        if i.get_is_station():
+            print(i.location, i.number_visited, i.number_stopped, i.sold_gasoline)
+
     export_data()
 
 
