@@ -1,0 +1,3361 @@
+{
+    "stations": [
+        {
+            "loc": [
+                3541672,
+                2077547
+            ],
+            "number_visitors": 428933,
+            "number_stopped": 198296,
+            "sold_gasoline": 5551088.354650524
+        },
+        {
+            "loc": [
+                3480415,
+                1990490
+            ],
+            "number_visitors": 450655,
+            "number_stopped": 220018,
+            "sold_gasoline": 1069625.2060966282
+        },
+        {
+            "loc": [
+                3503909,
+                2068901
+            ],
+            "number_visitors": 457282,
+            "number_stopped": 226645,
+            "sold_gasoline": 346103.2182938032
+        },
+        {
+            "loc": [
+                3477581,
+                2148855
+            ],
+            "number_visitors": 459716,
+            "number_stopped": 229079,
+            "sold_gasoline": 130828.8263618481
+        },
+        {
+            "loc": [
+                3492639,
+                1820393
+            ],
+            "number_visitors": 460661,
+            "number_stopped": 230024,
+            "sold_gasoline": 51287.64489061892
+        },
+        {
+            "loc": [
+                3522343,
+                2008641
+            ],
+            "number_visitors": 461028,
+            "number_stopped": 230391,
+            "sold_gasoline": 20659.52131396142
+        },
+        {
+            "loc": [
+                3532790,
+                2047283
+            ],
+            "number_visitors": 461166,
+            "number_stopped": 230529,
+            "sold_gasoline": 8341.971096178588
+        },
+        {
+            "loc": [
+                3407124,
+                1973820
+            ],
+            "number_visitors": 461232,
+            "number_stopped": 230595,
+            "sold_gasoline": 4576.0965857737665
+        },
+        {
+            "loc": [
+                3359681,
+                2037758
+            ],
+            "number_visitors": 461255,
+            "number_stopped": 230618,
+            "sold_gasoline": 1917.8541483467125
+        },
+        {
+            "loc": [
+                3520800,
+                2134010
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1051.133167745463
+        },
+        {
+            "loc": [
+                3458120,
+                2009258
+            ],
+            "number_visitors": 461259,
+            "number_stopped": 230622,
+            "sold_gasoline": 988.9616122364524
+        },
+        {
+            "loc": [
+                3436690,
+                2050180
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 633.9351153181283
+        },
+        {
+            "loc": [
+                3357373,
+                2020295
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 733.0541666024749
+        },
+        {
+            "loc": [
+                3521664,
+                2134310
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1098.406827291491
+        },
+        {
+            "loc": [
+                3422365,
+                2083001
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 710.2027053881229
+        },
+        {
+            "loc": [
+                3505593,
+                2131563
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1038.3223291443946
+        },
+        {
+            "loc": [
+                3552371,
+                1917705
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1034.0190693583495
+        },
+        {
+            "loc": [
+                3529762,
+                2090988
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 921.8298247129542
+        },
+        {
+            "loc": [
+                3479640,
+                1990701
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1435.2095688788697
+        },
+        {
+            "loc": [
+                3539351,
+                1766630
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 559.8748740648736
+        },
+        {
+            "loc": [
+                3540085,
+                1765689
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1149.4133684949186
+        },
+        {
+            "loc": [
+                3540074,
+                1764861
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 624.8825366651376
+        },
+        {
+            "loc": [
+                3535630,
+                1756127
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 778.466503944769
+        },
+        {
+            "loc": [
+                3536937,
+                1753606
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 805.7751548915294
+        },
+        {
+            "loc": [
+                3523504,
+                1849745
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 767.3367752929908
+        },
+        {
+            "loc": [
+                3405654,
+                1981976
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 824.1036634542468
+        },
+        {
+            "loc": [
+                3462022,
+                1920221
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 771.2862411767449
+        },
+        {
+            "loc": [
+                3434596,
+                1973577
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 965.0384831459012
+        },
+        {
+            "loc": [
+                3501727,
+                1930693
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1001.8705760534572
+        },
+        {
+            "loc": [
+                3452107,
+                2045038
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 878.0703435295226
+        },
+        {
+            "loc": [
+                3493603,
+                1998677
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1202.939782501809
+        },
+        {
+            "loc": [
+                3517024,
+                1938385
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 477.86410002035814
+        },
+        {
+            "loc": [
+                3479167,
+                1990584
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1110.082565795535
+        },
+        {
+            "loc": [
+                3472407,
+                2012653
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 928.1873343784669
+        },
+        {
+            "loc": [
+                3514328,
+                1996013
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 827.2158200468053
+        },
+        {
+            "loc": [
+                3408805,
+                1981475
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 958.0003897843768
+        },
+        {
+            "loc": [
+                3523556,
+                1771523
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 925.4315044290254
+        },
+        {
+            "loc": [
+                3450444,
+                2037701
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 840.267600669511
+        },
+        {
+            "loc": [
+                3423581,
+                2021928
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1027.1959486980604
+        },
+        {
+            "loc": [
+                3496623,
+                2073709
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1001.8529246355682
+        },
+        {
+            "loc": [
+                3527278,
+                1762785
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 714.3066967661532
+        },
+        {
+            "loc": [
+                3527432,
+                1762258
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 664.1630728880058
+        },
+        {
+            "loc": [
+                3480697,
+                1963400
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 507.7019174548464
+        },
+        {
+            "loc": [
+                3478831,
+                1990049
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 851.8034768761124
+        },
+        {
+            "loc": [
+                3408339,
+                1980836
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 757.1746707227469
+        },
+        {
+            "loc": [
+                3494909,
+                2060005
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 795.5156884409794
+        },
+        {
+            "loc": [
+                3504516,
+                2069788
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1010.8622461840482
+        },
+        {
+            "loc": [
+                3504093,
+                2069407
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1007.8162574951872
+        },
+        {
+            "loc": [
+                3504765,
+                2078818
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 972.8355234009771
+        },
+        {
+            "loc": [
+                3451488,
+                2043897
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 911.0902893400447
+        },
+        {
+            "loc": [
+                3532384,
+                2046841
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1276.1759779642373
+        },
+        {
+            "loc": [
+                3496208,
+                2073263
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 880.1628715840701
+        },
+        {
+            "loc": [
+                3495339,
+                2060270
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 906.2833841417977
+        },
+        {
+            "loc": [
+                3468347,
+                1939064
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1026.0457266163944
+        },
+        {
+            "loc": [
+                3450381,
+                2026733
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1053.749597486886
+        },
+        {
+            "loc": [
+                3504814,
+                2078737
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1047.9063454389584
+        },
+        {
+            "loc": [
+                3504983,
+                1862149
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 861.9633557709708
+        },
+        {
+            "loc": [
+                3423908,
+                2024989
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1041.5096403896266
+        },
+        {
+            "loc": [
+                3522302,
+                1851605
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 658.3341122324107
+        },
+        {
+            "loc": [
+                3523957,
+                1771951
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 718.201141193971
+        },
+        {
+            "loc": [
+                3459531,
+                2029737
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 779.6974183278776
+        },
+        {
+            "loc": [
+                3456556,
+                2035483
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 673.8734471105176
+        },
+        {
+            "loc": [
+                3456425,
+                2034734
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 901.4631730983267
+        },
+        {
+            "loc": [
+                3478886,
+                1990304
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 550.8884247347494
+        },
+        {
+            "loc": [
+                3424416,
+                2026238
+            ],
+            "number_visitors": 461263,
+            "number_stopped": 230626,
+            "sold_gasoline": 1040.7109184869896
+        },
+        {
+            "loc": [
+                3497374,
+                2005106
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 698.3393242831515
+        },
+        {
+            "loc": [
+                3505007,
+                1863003
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1253.3774412346888
+        },
+        {
+            "loc": [
+                3435765,
+                1995208
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 467.6281001822621
+        },
+        {
+            "loc": [
+                3435530,
+                1973279
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 562.2043557655893
+        },
+        {
+            "loc": [
+                3472236,
+                2012175
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 584.9688478187943
+        },
+        {
+            "loc": [
+                3479095,
+                1991019
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 647.6452882726921
+        },
+        {
+            "loc": [
+                3450960,
+                2041611
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1000.8117586511412
+        },
+        {
+            "loc": [
+                3504008,
+                2058362
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1080.7762083847144
+        },
+        {
+            "loc": [
+                3505776,
+                1817924
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 975.099762173081
+        },
+        {
+            "loc": [
+                3496160,
+                2014231
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1025.0402942246658
+        },
+        {
+            "loc": [
+                3408776,
+                1981380
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 952.209183272696
+        },
+        {
+            "loc": [
+                3533585,
+                1795801
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 861.9484256951646
+        },
+        {
+            "loc": [
+                3450844,
+                2027063
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1066.99891257859
+        },
+        {
+            "loc": [
+                3527428,
+                1760599
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 813.1575209600096
+        },
+        {
+            "loc": [
+                3416257,
+                1986387
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 928.7226922749066
+        },
+        {
+            "loc": [
+                3514183,
+                1995583
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 979.5937618985442
+        },
+        {
+            "loc": [
+                3496538,
+                2014854
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1085.5494638279233
+        },
+        {
+            "loc": [
+                3424404,
+                2026016
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 609.1477610479437
+        },
+        {
+            "loc": [
+                3451042,
+                2043254
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 943.3239901293124
+        },
+        {
+            "loc": [
+                3481370,
+                2078156
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 924.8389924571513
+        },
+        {
+            "loc": [
+                3411424,
+                1979627
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 705.2771951359774
+        },
+        {
+            "loc": [
+                3506478,
+                1938462
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 595.6393700789879
+        },
+        {
+            "loc": [
+                3505303,
+                2010462
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 731.6223025680996
+        },
+        {
+            "loc": [
+                3435600,
+                1973613
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 987.4136865317203
+        },
+        {
+            "loc": [
+                3467489,
+                1939162
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 745.079793903558
+        },
+        {
+            "loc": [
+                3450053,
+                2036890
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1002.4930326931534
+        },
+        {
+            "loc": [
+                3497423,
+                2005176
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 554.4345321048605
+        },
+        {
+            "loc": [
+                3411820,
+                1977442
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 914.958170380797
+        },
+        {
+            "loc": [
+                3504019,
+                2058396
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1022.5227662542212
+        },
+        {
+            "loc": [
+                3378288,
+                1957585
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 843.7162711006081
+        },
+        {
+            "loc": [
+                3423120,
+                2081976
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 1004.2742839464813
+        },
+        {
+            "loc": [
+                3532008,
+                2088552
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 878.5955023289073
+        },
+        {
+            "loc": [
+                3453271,
+                2044951
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 808.1459488703151
+        },
+        {
+            "loc": [
+                3504592,
+                2076482
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 789.4384111520221
+        },
+        {
+            "loc": [
+                3503847,
+                2066750
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 993.508855598086
+        },
+        {
+            "loc": [
+                3435766,
+                1994857
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 679.3608926742877
+        },
+        {
+            "loc": [
+                3466654,
+                1872797
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 618.3202359605001
+        },
+        {
+            "loc": [
+                3555615,
+                1757172
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1043.341552814817
+        },
+        {
+            "loc": [
+                3555615,
+                1757196
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 835.9394188546124
+        },
+        {
+            "loc": [
+                3493646,
+                1998600
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 912.7430874984663
+        },
+        {
+            "loc": [
+                3437454,
+                2113795
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 792.4163231732022
+        },
+        {
+            "loc": [
+                3436056,
+                2108556
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 832.6573075469662
+        },
+        {
+            "loc": [
+                3542426,
+                2077825
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 849.655702378615
+        },
+        {
+            "loc": [
+                3517922,
+                2007424
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 684.9662260269827
+        },
+        {
+            "loc": [
+                3450475,
+                2037278
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 767.0979643961459
+        },
+        {
+            "loc": [
+                3542202,
+                1998559
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1019.8477511874845
+        },
+        {
+            "loc": [
+                3449458,
+                2042022
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1150.8214681329828
+        },
+        {
+            "loc": [
+                3494350,
+                2124005
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 973.7441601690118
+        },
+        {
+            "loc": [
+                3451970,
+                2047309
+            ],
+            "number_visitors": 461262,
+            "number_stopped": 230625,
+            "sold_gasoline": 915.615952745354
+        },
+        {
+            "loc": [
+                3524956,
+                1770290
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 393.8604902659002
+        },
+        {
+            "loc": [
+                3451327,
+                2040923
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 765.7938709073749
+        },
+        {
+            "loc": [
+                3466540,
+                1938702
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 879.2248695776822
+        },
+        {
+            "loc": [
+                3461025,
+                2000451
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1014.5670270246063
+        },
+        {
+            "loc": [
+                3532483,
+                2047084
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 885.3795933826038
+        },
+        {
+            "loc": [
+                3550550,
+                1911486
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 1205.8519281335336
+        },
+        {
+            "loc": [
+                3416368,
+                1924553
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 610.7253142895045
+        },
+        {
+            "loc": [
+                3449624,
+                2034704
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 869.9749553521185
+        },
+        {
+            "loc": [
+                3489898,
+                1917350
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 750.4290479865367
+        },
+        {
+            "loc": [
+                3472410,
+                2012666
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 803.2501252299774
+        },
+        {
+            "loc": [
+                3460462,
+                1998531
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 904.8909196975566
+        },
+        {
+            "loc": [
+                3504476,
+                2059054
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1160.0285939644784
+        },
+        {
+            "loc": [
+                3408332,
+                1980699
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1034.2505725235428
+        },
+        {
+            "loc": [
+                3453274,
+                2035327
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1014.6140043518208
+        },
+        {
+            "loc": [
+                3523510,
+                1851402
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1052.9212789240717
+        },
+        {
+            "loc": [
+                3512185,
+                2000412
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 608.7859447688451
+        },
+        {
+            "loc": [
+                3510747,
+                1982785
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 986.4405813509452
+        },
+        {
+            "loc": [
+                3504431,
+                2077563
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 843.4669284394791
+        },
+        {
+            "loc": [
+                3504426,
+                2083009
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 716.7170403112485
+        },
+        {
+            "loc": [
+                3454487,
+                2041629
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 812.890566049112
+        },
+        {
+            "loc": [
+                3478591,
+                1991339
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1035.3766077873101
+        },
+        {
+            "loc": [
+                3498702,
+                2071791
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 519.6576159935762
+        },
+        {
+            "loc": [
+                3526857,
+                1912007
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1019.334711735705
+        },
+        {
+            "loc": [
+                3521243,
+                2010803
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 680.3511056354106
+        },
+        {
+            "loc": [
+                3395814,
+                1956127
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 851.0409863730916
+        },
+        {
+            "loc": [
+                3526833,
+                1764649
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 897.7710242577997
+        },
+        {
+            "loc": [
+                3505673,
+                1818731
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1290.7747902813442
+        },
+        {
+            "loc": [
+                3463099,
+                2028945
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1060.9860552399052
+        },
+        {
+            "loc": [
+                3552466,
+                2000525
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 791.0572391887342
+        },
+        {
+            "loc": [
+                3391100,
+                1969162
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 905.0153141377489
+        },
+        {
+            "loc": [
+                3538754,
+                1769472
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 593.5340512774867
+        },
+        {
+            "loc": [
+                3402063,
+                1967287
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 680.2345890637844
+        },
+        {
+            "loc": [
+                3517108,
+                2033670
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 873.3549859166831
+        },
+        {
+            "loc": [
+                3451152,
+                2044007
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 746.2268984985047
+        },
+        {
+            "loc": [
+                3449450,
+                2023768
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 821.1562466714049
+        },
+        {
+            "loc": [
+                3457946,
+                2009412
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 843.2129960292441
+        },
+        {
+            "loc": [
+                3395965,
+                1956392
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 779.4119450639865
+        },
+        {
+            "loc": [
+                3395853,
+                1956262
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 740.2584124552928
+        },
+        {
+            "loc": [
+                3450437,
+                2014228
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 541.4820894045147
+        },
+        {
+            "loc": [
+                3399339,
+                1950701
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1251.5386092932945
+        },
+        {
+            "loc": [
+                3377104,
+                1959208
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 977.5386970196837
+        },
+        {
+            "loc": [
+                3472525,
+                2064823
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 731.5911850751309
+        },
+        {
+            "loc": [
+                3421113,
+                1926128
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1063.7197607540868
+        },
+        {
+            "loc": [
+                3539910,
+                1861713
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 793.3482851792407
+        },
+        {
+            "loc": [
+                3449131,
+                1956625
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 800.8426449351194
+        },
+        {
+            "loc": [
+                3413963,
+                1955641
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 507.71758229053626
+        },
+        {
+            "loc": [
+                3518356,
+                2055080
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 936.334670433033
+        },
+        {
+            "loc": [
+                3450352,
+                2036238
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 749.6382925593688
+        },
+        {
+            "loc": [
+                3412715,
+                1980136
+            ],
+            "number_visitors": 461263,
+            "number_stopped": 230626,
+            "sold_gasoline": 567.3099904497583
+        },
+        {
+            "loc": [
+                3446938,
+                2011155
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1240.8029444070658
+        },
+        {
+            "loc": [
+                3505155,
+                2076197
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1078.7818956244278
+        },
+        {
+            "loc": [
+                3504961,
+                2073629
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 842.9893969695937
+        },
+        {
+            "loc": [
+                3504848,
+                2072215
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 722.3457145921503
+        },
+        {
+            "loc": [
+                3458083,
+                1953380
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 746.0254002807059
+        },
+        {
+            "loc": [
+                3477561,
+                1991701
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1073.5526157317347
+        },
+        {
+            "loc": [
+                3391088,
+                1969203
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1092.5699535709446
+        },
+        {
+            "loc": [
+                3438443,
+                1998712
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 991.380266900002
+        },
+        {
+            "loc": [
+                3395983,
+                1956641
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 996.6096347307465
+        },
+        {
+            "loc": [
+                3450355,
+                2044007
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 786.0725979663052
+        },
+        {
+            "loc": [
+                3505146,
+                2076194
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 659.2684779650689
+        },
+        {
+            "loc": [
+                3527380,
+                1762762
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1144.3645803668282
+        },
+        {
+            "loc": [
+                3534532,
+                1770450
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1140.8888672102275
+        },
+        {
+            "loc": [
+                3462712,
+                2028513
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 930.5890995041617
+        },
+        {
+            "loc": [
+                3503675,
+                2059333
+            ],
+            "number_visitors": 461259,
+            "number_stopped": 230622,
+            "sold_gasoline": 1022.9239870639589
+        },
+        {
+            "loc": [
+                3472396,
+                2012763
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 960.5649404455179
+        },
+        {
+            "loc": [
+                3539022,
+                2033256
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1124.6448539036871
+        },
+        {
+            "loc": [
+                3512777,
+                2034416
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 892.5345561387567
+        },
+        {
+            "loc": [
+                3505311,
+                2073792
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 903.544087065975
+        },
+        {
+            "loc": [
+                3505538,
+                2075630
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 916.1159442102003
+        },
+        {
+            "loc": [
+                3523295,
+                2129852
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 642.2704489710928
+        },
+        {
+            "loc": [
+                3495767,
+                2125083
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 898.3039332984914
+        },
+        {
+            "loc": [
+                3450798,
+                2038369
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 847.0074654854939
+        },
+        {
+            "loc": [
+                3529535,
+                1908171
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 935.9123896170629
+        },
+        {
+            "loc": [
+                3539274,
+                1856137
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 905.4999940539055
+        },
+        {
+            "loc": [
+                3523685,
+                1911208
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1209.360456354466
+        },
+        {
+            "loc": [
+                3531131,
+                1962749
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 736.8361081291309
+        },
+        {
+            "loc": [
+                3552362,
+                1917688
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 822.2065392879908
+        },
+        {
+            "loc": [
+                3525275,
+                1912217
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 536.0677387747791
+        },
+        {
+            "loc": [
+                3516050,
+                2000145
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1596.205275275166
+        },
+        {
+            "loc": [
+                3523489,
+                1850097
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1175.7669465926915
+        },
+        {
+            "loc": [
+                3447015,
+                2039449
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1060.6156659513717
+        },
+        {
+            "loc": [
+                3492807,
+                1999243
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 588.8124130039063
+        },
+        {
+            "loc": [
+                3522746,
+                2004932
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1292.1876457613346
+        },
+        {
+            "loc": [
+                3472607,
+                2011981
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 824.5306498768223
+        },
+        {
+            "loc": [
+                3552144,
+                1918478
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 697.1362032093585
+        },
+        {
+            "loc": [
+                3362138,
+                2039383
+            ],
+            "number_visitors": 461261,
+            "number_stopped": 230624,
+            "sold_gasoline": 928.8202906539631
+        },
+        {
+            "loc": [
+                3482104,
+                2123810
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 743.3510136880327
+        },
+        {
+            "loc": [
+                3445538,
+                2040350
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 647.4690306042352
+        },
+        {
+            "loc": [
+                3399846,
+                1953831
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1083.3727628791405
+        },
+        {
+            "loc": [
+                3528381,
+                2110028
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1014.9525541840108
+        },
+        {
+            "loc": [
+                3522913,
+                2131562
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 534.7049850829492
+        },
+        {
+            "loc": [
+                3535554,
+                2073684
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 944.8324102410096
+        },
+        {
+            "loc": [
+                3552404,
+                1918723
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 629.7086531015012
+        },
+        {
+            "loc": [
+                3524545,
+                2137854
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 896.7330705253328
+        },
+        {
+            "loc": [
+                3523099,
+                1913111
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 639.77245661056
+        },
+        {
+            "loc": [
+                3532810,
+                2148538
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1073.01229434947
+        },
+        {
+            "loc": [
+                3555353,
+                1869009
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1082.0531744366303
+        },
+        {
+            "loc": [
+                3455824,
+                2087223
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1075.6821648658527
+        },
+        {
+            "loc": [
+                3525335,
+                1912257
+            ],
+            "number_visitors": 461260,
+            "number_stopped": 230623,
+            "sold_gasoline": 756.7310163848218
+        },
+        {
+            "loc": [
+                3524497,
+                2137953
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 883.6782542988676
+        },
+        {
+            "loc": [
+                3360924,
+                2037884
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 669.7346938384823
+        },
+        {
+            "loc": [
+                3524400,
+                1910518
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1130.2079156600628
+        },
+        {
+            "loc": [
+                3493758,
+                2123234
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1182.4519933087806
+        },
+        {
+            "loc": [
+                3557443,
+                1873819
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 993.5432235711205
+        },
+        {
+            "loc": [
+                3555871,
+                1869667
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 894.267020906496
+        },
+        {
+            "loc": [
+                3531050,
+                1916850
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1122.3254288537505
+        },
+        {
+            "loc": [
+                3530956,
+                1916862
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 972.9447170950115
+        },
+        {
+            "loc": [
+                3505592,
+                2131455
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 958.4936201251113
+        },
+        {
+            "loc": [
+                3424019,
+                2085905
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 972.6057687836728
+        },
+        {
+            "loc": [
+                3411736,
+                1977945
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 516.3330660697397
+        },
+        {
+            "loc": [
+                3552247,
+                1916385
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 988.8134026158663
+        },
+        {
+            "loc": [
+                3402602,
+                1938199
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1039.1949827943486
+        },
+        {
+            "loc": [
+                3388125,
+                1963907
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1014.1453150932889
+        },
+        {
+            "loc": [
+                3388120,
+                1964127
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1054.6122616966843
+        },
+        {
+            "loc": [
+                3413172,
+                1935690
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 970.3969507788936
+        },
+        {
+            "loc": [
+                3388126,
+                1963951
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1175.8641723767255
+        },
+        {
+            "loc": [
+                3402614,
+                1938154
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1074.5642550860566
+        },
+        {
+            "loc": [
+                3432614,
+                1889170
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 613.1723607566674
+        },
+        {
+            "loc": [
+                3440337,
+                1915779
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1278.0115960501216
+        },
+        {
+            "loc": [
+                3448411,
+                1889351
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 918.7136574316028
+        },
+        {
+            "loc": [
+                3448411,
+                1889310
+            ],
+            "number_visitors": 461263,
+            "number_stopped": 230626,
+            "sold_gasoline": 672.1707720656453
+        },
+        {
+            "loc": [
+                3399818,
+                1953455
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 732.9035872418281
+        },
+        {
+            "loc": [
+                3521180,
+                2132412
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 961.7075250593145
+        },
+        {
+            "loc": [
+                3528983,
+                2091432
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1167.9223772833611
+        },
+        {
+            "loc": [
+                3515706,
+                2138183
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 903.7447570485662
+        },
+        {
+            "loc": [
+                3485417,
+                1900067
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1136.765991403402
+        },
+        {
+            "loc": [
+                3449756,
+                2037898
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 746.4316627883319
+        },
+        {
+            "loc": [
+                3522714,
+                1910552
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 891.8415296475962
+        },
+        {
+            "loc": [
+                3526915,
+                1911476
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 1064.4550083848605
+        },
+        {
+            "loc": [
+                3526024,
+                1911297
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 652.0549385019171
+        },
+        {
+            "loc": [
+                3526960,
+                1911461
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 742.6481319425164
+        },
+        {
+            "loc": [
+                3522798,
+                1908661
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 874.9823407424846
+        },
+        {
+            "loc": [
+                3527711,
+                1763750
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 957.2044658215142
+        },
+        {
+            "loc": [
+                3525985,
+                2005776
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 790.7956294926674
+        },
+        {
+            "loc": [
+                3449934,
+                2033597
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 944.7034707235638
+        },
+        {
+            "loc": [
+                3451166,
+                2046058
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1016.0145063544052
+        },
+        {
+            "loc": [
+                3451358,
+                2036809
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 883.7151436192062
+        },
+        {
+            "loc": [
+                3413474,
+                1956496
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 862.8333306813558
+        },
+        {
+            "loc": [
+                3505055,
+                2072974
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1225.6085825080552
+        },
+        {
+            "loc": [
+                3504249,
+                2082642
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 683.268355748523
+        },
+        {
+            "loc": [
+                3462659,
+                2019069
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 743.0880202539383
+        },
+        {
+            "loc": [
+                3479171,
+                1992245
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1002.3485279905984
+        },
+        {
+            "loc": [
+                3359205,
+                2037089
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 746.8932979893418
+        },
+        {
+            "loc": [
+                3539641,
+                1860129
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1234.8392561659218
+        },
+        {
+            "loc": [
+                3450880,
+                2039121
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1077.8923132187551
+        },
+        {
+            "loc": [
+                3476809,
+                2151625
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 876.2796171238701
+        },
+        {
+            "loc": [
+                3393653,
+                1965406
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 954.150709538949
+        },
+        {
+            "loc": [
+                3390292,
+                1968813
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1113.5840578346467
+        },
+        {
+            "loc": [
+                3394785,
+                1980294
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 704.2680173442158
+        },
+        {
+            "loc": [
+                3543478,
+                2077998
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 843.6273805830879
+        },
+        {
+            "loc": [
+                3509421,
+                2102623
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 966.9430742828431
+        },
+        {
+            "loc": [
+                3517378,
+                2110212
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1009.1427665896948
+        },
+        {
+            "loc": [
+                3447152,
+                2039194
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 921.5975325992447
+        },
+        {
+            "loc": [
+                3521894,
+                2010895
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 677.6901569091608
+        },
+        {
+            "loc": [
+                3414642,
+                1984991
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1063.9038241771357
+        },
+        {
+            "loc": [
+                3497022,
+                2006689
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 837.9327869958229
+        },
+        {
+            "loc": [
+                3497657,
+                2005547
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 922.9177739863932
+        },
+        {
+            "loc": [
+                3453920,
+                2068564
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 527.6831024012185
+        },
+        {
+            "loc": [
+                3392610,
+                1968575
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 762.4608453811517
+        },
+        {
+            "loc": [
+                3477161,
+                1972638
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1094.3219838870423
+        },
+        {
+            "loc": [
+                3479944,
+                1966317
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1084.77194207574
+        },
+        {
+            "loc": [
+                3534315,
+                2048188
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 808.2974455809843
+        },
+        {
+            "loc": [
+                3534314,
+                2048064
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1121.8035173695391
+        },
+        {
+            "loc": [
+                3540111,
+                2028286
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 625.6694306215547
+        },
+        {
+            "loc": [
+                3426400,
+                1932721
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 745.7394481360379
+        },
+        {
+            "loc": [
+                3552678,
+                2000925
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 765.3294379012495
+        },
+        {
+            "loc": [
+                3450202,
+                1886245
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 603.8183218942404
+        },
+        {
+            "loc": [
+                3490237,
+                1997241
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 908.8379888865749
+        },
+        {
+            "loc": [
+                3519917,
+                2009271
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 868.2351224600412
+        },
+        {
+            "loc": [
+                3443862,
+                2162253
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 885.8288838372575
+        },
+        {
+            "loc": [
+                3447775,
+                2111551
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 806.3210663698559
+        },
+        {
+            "loc": [
+                3450390,
+                2028659
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 888.148701621153
+        },
+        {
+            "loc": [
+                3545622,
+                1923419
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1044.7957933954915
+        },
+        {
+            "loc": [
+                3511801,
+                1930394
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 977.1054496686475
+        },
+        {
+            "loc": [
+                3488052,
+                1882317
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 844.1293152461519
+        },
+        {
+            "loc": [
+                3495776,
+                1894589
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1162.3732033190945
+        },
+        {
+            "loc": [
+                3531429,
+                1926121
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1079.643820174119
+        },
+        {
+            "loc": [
+                3501327,
+                1880688
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1128.0400980649429
+        },
+        {
+            "loc": [
+                3527472,
+                1911036
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 570.364091048354
+        },
+        {
+            "loc": [
+                3549114,
+                1946239
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1189.8498744977194
+        },
+        {
+            "loc": [
+                3533881,
+                1922378
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1035.2423212838294
+        },
+        {
+            "loc": [
+                3523303,
+                2136538
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 918.8927053166024
+        },
+        {
+            "loc": [
+                3520999,
+                2131567
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 834.5454064921207
+        },
+        {
+            "loc": [
+                3524561,
+                1911925
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1201.1368047324586
+        },
+        {
+            "loc": [
+                3514180,
+                2138422
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 751.8334015417093
+        },
+        {
+            "loc": [
+                3526933,
+                2141356
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 848.1708936785469
+        },
+        {
+            "loc": [
+                3517302,
+                2114993
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 661.3989889286872
+        },
+        {
+            "loc": [
+                3512520,
+                2094018
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1144.4430769941462
+        },
+        {
+            "loc": [
+                3492032,
+                2122786
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 855.7755581030218
+        },
+        {
+            "loc": [
+                3495010,
+                2125263
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 941.3522175289062
+        },
+        {
+            "loc": [
+                3485766,
+                2094317
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 874.3400082235545
+        },
+        {
+            "loc": [
+                3477409,
+                2148400
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 963.2447543845302
+        },
+        {
+            "loc": [
+                3471978,
+                2143646
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 827.7344091197759
+        },
+        {
+            "loc": [
+                3477238,
+                2105512
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1106.2398795197648
+        },
+        {
+            "loc": [
+                3396820,
+                2060635
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 667.208608931895
+        },
+        {
+            "loc": [
+                3476524,
+                2119872
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 783.7793427048646
+        },
+        {
+            "loc": [
+                3552112,
+                1999916
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 672.5944999281704
+        },
+        {
+            "loc": [
+                3553100,
+                2000747
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 651.9565691199409
+        },
+        {
+            "loc": [
+                3520140,
+                2010210
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 819.1903347575192
+        },
+        {
+            "loc": [
+                3520074,
+                2010508
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 711.7043515062304
+        },
+        {
+            "loc": [
+                3539241,
+                2031067
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 606.0207124490861
+        },
+        {
+            "loc": [
+                3538179,
+                2034580
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 812.777391726552
+        },
+        {
+            "loc": [
+                3534720,
+                2071509
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1122.0581011885577
+        },
+        {
+            "loc": [
+                3512691,
+                2040607
+            ],
+            "number_visitors": 461262,
+            "number_stopped": 230625,
+            "sold_gasoline": 941.498188632659
+        },
+        {
+            "loc": [
+                3540354,
+                1993875
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 758.9151434021746
+        },
+        {
+            "loc": [
+                3523836,
+                1912186
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 692.0026677377786
+        },
+        {
+            "loc": [
+                3530661,
+                1963645
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 1064.0402743534532
+        },
+        {
+            "loc": [
+                3511646,
+                1984135
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 1423.0971506024882
+        },
+        {
+            "loc": [
+                3510616,
+                1983767
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1008.0331155287979
+        },
+        {
+            "loc": [
+                3545743,
+                2053533
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 580.716579423221
+        },
+        {
+            "loc": [
+                3448166,
+                2064255
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1059.2854617477265
+        },
+        {
+            "loc": [
+                3451057,
+                2060196
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 887.7294791616382
+        },
+        {
+            "loc": [
+                3451080,
+                2060170
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 605.706724148206
+        },
+        {
+            "loc": [
+                3449094,
+                2041501
+            ],
+            "number_visitors": 461273,
+            "number_stopped": 230636,
+            "sold_gasoline": 670.800385501939
+        },
+        {
+            "loc": [
+                3456352,
+                2085612
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 803.509968540199
+        },
+        {
+            "loc": [
+                3448070,
+                2111188
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 674.2476333545901
+        },
+        {
+            "loc": [
+                3524124,
+                1911072
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 679.7289867076045
+        },
+        {
+            "loc": [
+                3446251,
+                2143962
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 798.451742215554
+        },
+        {
+            "loc": [
+                3432188,
+                2152306
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 661.9055180453292
+        },
+        {
+            "loc": [
+                3427965,
+                2119615
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1191.1843043350646
+        },
+        {
+            "loc": [
+                3470239,
+                2106649
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 1031.3884669748707
+        },
+        {
+            "loc": [
+                3457497,
+                2088234
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 753.2534833112312
+        },
+        {
+            "loc": [
+                3438514,
+                2121209
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 646.3551609922263
+        },
+        {
+            "loc": [
+                3539903,
+                1857533
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1039.6151866764603
+        },
+        {
+            "loc": [
+                3555580,
+                1867255
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 757.1929237271238
+        },
+        {
+            "loc": [
+                3539861,
+                1858104
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 644.6335726340682
+        },
+        {
+            "loc": [
+                3545337,
+                1820955
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 534.3077276088778
+        },
+        {
+            "loc": [
+                3521555,
+                1906441
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 676.2013745960129
+        },
+        {
+            "loc": [
+                3558942,
+                1836255
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 669.7373049270976
+        },
+        {
+            "loc": [
+                3529844,
+                1853234
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 751.6246246417816
+        },
+        {
+            "loc": [
+                3539369,
+                1870868
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 676.371111745406
+        },
+        {
+            "loc": [
+                3557813,
+                1875642
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1081.2480006214687
+        },
+        {
+            "loc": [
+                3404266,
+                2013340
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 790.2665163946392
+        },
+        {
+            "loc": [
+                3380011,
+                2010801
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 687.3213189166256
+        },
+        {
+            "loc": [
+                3423256,
+                2085615
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 919.4719561220963
+        },
+        {
+            "loc": [
+                3424237,
+                2071918
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 810.010874433138
+        },
+        {
+            "loc": [
+                3374111,
+                2047503
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1033.3744272594915
+        },
+        {
+            "loc": [
+                3361273,
+                2038812
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 964.097738044193
+        },
+        {
+            "loc": [
+                3523726,
+                1909426
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 1001.6002805358223
+        },
+        {
+            "loc": [
+                3360631,
+                2039078
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 786.7099428334594
+        },
+        {
+            "loc": [
+                3424379,
+                2086916
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 525.1414220491181
+        },
+        {
+            "loc": [
+                3526866,
+                2061709
+            ],
+            "number_visitors": 461272,
+            "number_stopped": 230635,
+            "sold_gasoline": 994.8586641583458
+        },
+        {
+            "loc": [
+                3471321,
+                1937146
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 502.4460364012864
+        },
+        {
+            "loc": [
+                3506595,
+                2077432
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 887.1486706523222
+        },
+        {
+            "loc": [
+                3472852,
+                1987696
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 785.221555970749
+        },
+        {
+            "loc": [
+                3513072,
+                1997409
+            ],
+            "number_visitors": 461271,
+            "number_stopped": 230634,
+            "sold_gasoline": 976.3473816347336
+        },
+        {
+            "loc": [
+                3450161,
+                1908620
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 910.6051772686087
+        },
+        {
+            "loc": [
+                3519807,
+                2022765
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 612.301074542562
+        },
+        {
+            "loc": [
+                3512317,
+                2062647
+            ],
+            "number_visitors": 461265,
+            "number_stopped": 230628,
+            "sold_gasoline": 453.26728056342154
+        },
+        {
+            "loc": [
+                3526683,
+                1912737
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 546.4007086647009
+        },
+        {
+            "loc": [
+                3524514,
+                2057671
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 944.5552914436103
+        },
+        {
+            "loc": [
+                3415095,
+                1985785
+            ],
+            "number_visitors": 461264,
+            "number_stopped": 230627,
+            "sold_gasoline": 1089.1520856015475
+        },
+        {
+            "loc": [
+                3552805,
+                1917572
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 849.3924889372505
+        },
+        {
+            "loc": [
+                3534345,
+                1891716
+            ],
+            "number_visitors": 461267,
+            "number_stopped": 230630,
+            "sold_gasoline": 1015.4903199306874
+        },
+        {
+            "loc": [
+                3555403,
+                1866426
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 1083.4179569227827
+        },
+        {
+            "loc": [
+                3522720,
+                2134373
+            ],
+            "number_visitors": 461268,
+            "number_stopped": 230631,
+            "sold_gasoline": 972.2846682726484
+        },
+        {
+            "loc": [
+                3457259,
+                2037204
+            ],
+            "number_visitors": 461269,
+            "number_stopped": 230632,
+            "sold_gasoline": 820.1274044514287
+        },
+        {
+            "loc": [
+                3512671,
+                1997636
+            ],
+            "number_visitors": 461266,
+            "number_stopped": 230629,
+            "sold_gasoline": 1131.9836851053042
+        },
+        {
+            "loc": [
+                3528029,
+                1912528
+            ],
+            "number_visitors": 461270,
+            "number_stopped": 230633,
+            "sold_gasoline": 741.6515281478579
+        }
+    ]
+}
