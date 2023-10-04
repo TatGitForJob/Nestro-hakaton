@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Где заправки?</title>
+  <link rel="stylesheet" href="static/style.css">
+  <link rel="icon" href="static/nestro.jpg">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+
+<body >
+  <div id="mapContainer"></div>
+
+  <div style="height: auto">
+    <button class="category-button" style=" font: bold 11pt Arial; background-color: #00ab4f" data-category="category1">Все заправки</button>
+    <button class="category-button" style=" font: bold 11pt Arial;background-color: #00ab4f" data-category="category2">Заправки Nestro</button>
+    <button class="category-button" style="font: bold 11pt Arial; background-color: #00ab4f" data-category="category3">Чужие заправки</button>
+    <button class="category-button" style="font: bold 11pt Arial; background-color: #fdb410" data-category="category4">Первая гипотеза</button>
+    <button class="category-button" style="font: bold 11pt Arial; background-color: #fdb410" data-category="category5">Вторая гипотеза</button>
+    <button class="download-button" id="result-button1" style="font: bold 11pt Arial; background-color: #f7871b" >Скачать гипотезу 1</button>
+    <button class="download-button" id="result-button2" style="font: bold 11pt Arial; background-color: #f7871b" >Скачать гипотезу 2</button>
+    <button class="download-button" id="petrol-button" style="font: bold 11pt Arial; background-color: #f7871b" >Скачать цены бензина</button>
+    <button class="algo-button" style="font: bold 11pt Arial; background-color: #f7871b" >Отправить гипотезу</button>
+  </div>
+
+  <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=9fe1b4ed-b69d-451e-bd0d-a75c82669a2c" type="text/javascript"></script>
+  <script src="static/script.js"></script>
+</body>
+
+</html>
